@@ -1,3 +1,8 @@
+Maybe your need a offline version:
+see this:http://codefury.net/projects/klogger/#download
+
+
+And this is composer version bellow:
 # KLogger: Simple Logging for PHP
 
 A project written by [Kenny Katzgrau](http://twitter.com/katzgrau) and [Dan Horrigan](http://twitter.com/dhrrgn).
